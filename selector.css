@@ -1,0 +1,39 @@
+ol {
+    margin-left: -40px;
+    margin-top: 20px;
+    list-style-position: inside;
+}
+html {
+    background: goldenrod;
+}
+h2{
+    color: chartreuse;
+}
+.shyam{
+    color: green;
+}
+.red-text{
+    color: red;
+}
+.green-text{
+    color: green;
+}
+.yellow-text{
+    color: yellow;
+}
+.purple-text{
+    color: purple;
+}
+.brown-text{
+    color: brown;
+}
+#main{
+    color: rgb(0, 94, 255);
+}
+p[draggable="false"]{
+    color: red;
+}
+p[draggable="true"]{
+    color: green;
+}
+
