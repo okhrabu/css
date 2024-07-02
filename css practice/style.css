@@ -1,0 +1,32 @@
+ol{
+    margin-left: 40px;
+    margin-top: 20px;
+    list-style: inside;
+}
+html{
+   background: rgb(176, 180, 180);
+}
+.red-text{
+    color: red;
+}
+h2{
+    color: blue;
+}
+.yellow-text{
+    color:yellow;
+}
+.sky-text{
+    color: rgb(17, 52, 66);
+}
+#main{
+    color: darkred;
+}
+.position{
+   text-align: center;
+}
+h1{
+    color: darkred;
+}
+.black-text{
+    color: rgb(17, 52, 66);
+}
