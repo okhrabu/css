@@ -30,3 +30,10 @@ h1{
 .black-text{
     color: rgb(17, 52, 66);
 }
+img{
+    height: 400px;
+    width: 400px;
+}
+.text-title{
+    color: crimson;
+}
