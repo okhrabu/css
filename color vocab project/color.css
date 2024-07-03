@@ -1,0 +1,33 @@
+ol{
+    margin: 20px;
+    margin-top: 15px;
+    list-style: inside;
+}
+h1{
+    color: red;
+}
+html{
+    background:darkgrey;
+}
+h2{
+    color: blue;
+}
+.color-title{
+    font-weight: normal;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orenge{
+    color: orange;
+}
+#green{
+    color: green;
+}
