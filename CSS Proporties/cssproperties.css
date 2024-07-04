@@ -1,0 +1,16 @@
+ol{
+    margin-left: 20px;
+    margin-top: 15px;
+    list-style: inside;
+}
+body{
+   background-color: rgb(35, 35, 51);
+}
+h1{
+    color: rgb(137, 166, 137);
+    background-color: brown;
+}
+h2{
+    color: chartreuse;
+    background-color: darkcyan;
+}
