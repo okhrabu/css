@@ -26,6 +26,7 @@ h2{
 }
 h1{
     color: darkred;
+    background-color: cyan;
 }
 .black-text{
     color: rgb(17, 52, 66);
