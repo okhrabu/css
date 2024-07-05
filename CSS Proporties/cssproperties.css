@@ -14,3 +14,24 @@ h2{
     color: chartreuse;
     background-color: darkcyan;
 }
+.white-color{
+    color: white;
+}
+.txt-color{
+    background-color: rosybrown;
+    font-style: italic;
+    color: blue;
+}
+.green-text{
+    color: rgb(87, 128, 0);
+}
+.txt-color1{
+    background-color: chartreuse;
+    color: red;
+    font-style: oblique;
+}
+.txt-color2{
+    background-color: rgb(179, 133, 20);
+    color: rgb(0, 255, 229);
+    font-style: oblique;
+}
