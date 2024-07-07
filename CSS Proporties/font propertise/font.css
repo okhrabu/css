@@ -1,0 +1,57 @@
+*{
+    margin-top: 20px;
+    margin-left: 15px;
+    list-style: inside;
+    font-size: xx-large;
+    background: rgb(189, 228, 147);
+}
+#pixel{
+    font-size: 20px;
+}
+#point{
+    font-size: 20px;
+}
+#em{
+    font-size: 1em;
+}
+#rem{
+    font-size: 1rem;
+}
+.txt-color{
+     background-color: black;
+    color: aliceblue;
+}
+footer{
+    font-size: 12px;
+}
+
+
+.prompt-regular {
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #main{
+     color: darkgreen;
+  }
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h3{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+  }
+  h4{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h5{
+    font-family: cursive;
+  }
+  .a{
+    color: coral;
+    font-family: monospace;
+    font-size: xx-large;
+  }
+  .b{
+    font-family: cursive;
+    color: deeppink;
+  }
