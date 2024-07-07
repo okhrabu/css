@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    margin-top: 15px;
+    margin-left: 10px;
+    list-style-type: style inside;
+}
+.a{
+    text-align: center;
+}
+.text-size{
+    font-size: large;
+}
+.text-size1{
+    font-size:small;
+}
+h1{
+    color: brown;
+}
