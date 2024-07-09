@@ -1,0 +1,24 @@
+body{
+    margin-top: 30px;
+    margin-left: 30px;
+    list-style: inside;
+}
+h1,
+h2 {
+  color: blueviolet;
+}
+.box > p {
+    color: firebrick;
+  }
+  .box li {
+    color: blue;
+  }
+  li.done {
+    color: green;
+  }
+  ul p.done {
+    font-size: 0.5rem;
+  }
+    .txt{
+      color: rgb(49, 197, 71);
+    }
